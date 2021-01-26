@@ -1,9 +1,9 @@
-export TOWER_GUID=<Tower env GUID>
-export OSP_GUID=<OSP Env GUID>
-export OSP_DOMAIN=<OSP Env domain name>
-export OPENTLC_ID=<username-example.com>
-export MAIL_ID=<username@example.com>
-export OPENTLC_PASSWORD=<Your OPENTLC Password>
-export GITHUB_REPO=https://github.com/<github username>/nextgen_ansible_advanced_homework.git
+export TOWER_GUID=2053
+export OSP_GUID=b424
+export OSP_DOMAIN=dynamic.opentlc.com
+export OPENTLC_ID=pbrougha-redhat.com
+export MAIL_ID=pbrougha@gmail.com
+export OPENTLC_PASSWORD=Tacoson1ce
+export GITHUB_REPO=https://github.com/pangurb-c/nextgen_ansible_advanced_homework.git
 export JQ_REPO_BASE=http://www.opentlc.com/download/ansible_bootcamp
 export REGION=us-east-1
