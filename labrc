@@ -1,5 +1,5 @@
-export TOWER_GUID=2053
-export OSP_GUID=b424
+export TOWER_GUID=24d5
+export OSP_GUID=7af5
 export OSP_DOMAIN=dynamic.opentlc.com
 export OPENTLC_ID=pbrougha-redhat.com
 export MAIL_ID=pbrougha@gmail.com
